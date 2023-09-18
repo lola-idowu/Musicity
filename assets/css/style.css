@@ -46,8 +46,11 @@ h1 {
 }
 
 .active {
+    background-color: #001a23;
     color: #18a999;
-    border-bottom: 1px solid #18a999;
+    border-radius: 3px;
+    border: 2px solid #18a999;
+    padding: 3px;
     
 }
 /* nav bar */
@@ -135,3 +138,13 @@ footer {
     }
 }
 
+/* Media Query: Laptops and larger screens (992 px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        background-color: #001a23;
+        color: #8af3ff;
+        border-radius: 3px;
+        border: 2px solid #8af3ff;
+        padding: 3px;
+    }
+}
