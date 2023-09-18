@@ -127,14 +127,14 @@ footer {
     }
 
     #logo {
-        font-size: 250%;
+    
     }
 
     /* Main */
 
     /* Push main content down, to be seen under the header*/
     main {
-        margin-top: 85px;
+        margin-top: 73px;
     }
 }
 
