@@ -5,3 +5,17 @@
     box-sizing: border-box;
 }
 
+/* Header */
+header  {
+    background-color: aquamarine;
+}
+
+/* Main Content */
+main {
+    background-color: pink;
+}
+
+/* Footer */
+footer {
+    background-color: yellowgreen;
+}
