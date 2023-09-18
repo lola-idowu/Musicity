@@ -32,9 +32,6 @@ header {
     align-items: baseline;
 }
 
-header a {
-    text-decoration: none;
-}
 
 h1 {
     font-family: 'Josefin', sans-serif;
@@ -67,7 +64,6 @@ nav{
 }
 
 nav a {
-    
     color: #f7f0f0;
 }
 
@@ -91,6 +87,7 @@ nav li {
 /* Main Content */
 main {
     background-color: pink;
+    padding: 0 1rem;
     /* Flex style to push th footer down */
     flex: 1 0 auto;
     /* Push main content down, to be seen under the header*/
@@ -99,8 +96,18 @@ main {
 
 /* Footer */
 footer {
-    background-color: yellowgreen;
+    background-color: #001a23;
+    padding: 0 1rem;
 }
+
+footer h3 {
+    color: #f7f0f0;
+}
+
+footer a {
+    color: #f7f0f0;
+}
+
 
 /*Media Queries*/
 
