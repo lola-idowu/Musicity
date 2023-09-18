@@ -10,6 +10,10 @@
 
 /* General Body Styles*/
 body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Project syles */
     font-family: 'Poppins',sans-serif;
 }
 
@@ -18,11 +22,19 @@ header  {
     background-color: aquamarine;
 }
 
+h1 {
+    font-family: 'Fredoka',sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
 
 
 /* Main Content */
 main {
     background-color: pink;
+    /* Flex style to push th footer down */
+    flex: 1 0 auto;
 }
 
 /* Footer */
