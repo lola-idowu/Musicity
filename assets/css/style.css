@@ -90,6 +90,8 @@ main {
     background-color: pink;
     /* Flex style to push th footer down */
     flex: 1 0 auto;
+    /* Push main content down, to be seen under the header*/
+    margin-top: 73px;
 }
 
 /* Footer */
