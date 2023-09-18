@@ -15,8 +15,6 @@ body{
     flex-direction: column;
     /* Project syles */
     font-family: 'Poppins',sans-serif;
-    
-    list-style-type: none;
 }
 
 /* Header */
@@ -26,6 +24,11 @@ header  {
     position: fixed;
     z-index: 99;
     width: 100%;
+    box-shadow: 0 3px 5px #001a23;
+}
+
+header a{
+    text-decoration: none;
 }
 
 h1 {
@@ -35,8 +38,20 @@ h1 {
     color: #8af3ff;
 }
 
+#logo {
+    
+}
+
+/* nav bar */
+
 nav a{
     text-decoration: none;
+    color: #f7f0f0;
+}
+
+nav li{
+    list-style-type: none;
+    cursor: pointer;
 }
 
 
