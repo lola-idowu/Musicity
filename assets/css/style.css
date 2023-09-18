@@ -9,16 +9,16 @@
 }
 
 /* General Body Styles*/
-body{
+body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     /* Project syles */
-    font-family: 'Poppins',sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Header */
-header  {
+header {
     background-color: #001a23;
     padding: 0 1rem;
     position: fixed;
@@ -27,32 +27,30 @@ header  {
     box-shadow: 0 3px 5px #001a23;
 }
 
-header a{
+header a {
     text-decoration: none;
 }
 
 h1 {
-    font-family: 'Josefin',sans-serif;
+    font-family: 'Josefin', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #8af3ff;
 }
 
-#logo {
-    
-}
-
 /* nav bar */
 
-nav a{
+nav a {
     text-decoration: none;
     color: #f7f0f0;
 }
 
-nav li{
+nav li {
     list-style-type: none;
     cursor: pointer;
+    margin-bottom: 20px;
 }
+
 
 
 
