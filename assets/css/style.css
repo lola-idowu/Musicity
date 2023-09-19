@@ -17,6 +17,7 @@ body {
     flex-direction: column;
     /* Project syles */
     font-family: 'Poppins', sans-serif;
+    background-color: #f7f0f0;
 }
 
 /* Header */
@@ -48,10 +49,11 @@ h1 {
     border-radius: 3px;
     border: 2px solid #18a999;
     padding: 3px;
-    
+
 }
+
 /* nav bar */
-nav{
+nav {
     position: absolute;
     background-color: #001a23;
     width: 100%;
@@ -60,7 +62,7 @@ nav{
     box-shadow: 0 3px 5px #001a23;
     display: none;
     top: 100%;
-    
+
 }
 
 nav a {
@@ -76,6 +78,7 @@ nav li {
 #nav-toggle:checked~nav {
     display: block;
 }
+
 #nav-toggle {
     display: none;
 }
@@ -86,7 +89,7 @@ nav li {
 
 /* Main Content */
 main {
-    /* Flex style to push th footer down */
+    /* Flex style to push the footer down */
     flex: 1 0 auto;
     /* Push main content down, to be seen under the header*/
     margin-top: 73px;
@@ -98,22 +101,54 @@ main {
     width: 100%;
     background-color: #18a999;
     background: url("../images/female-hands-play-musical-keys-soft-focus.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
+#hero-text {
+    color: #f7f0f0;
+    background-color: #013b6580;
+    position: absolute;
+    bottom: 100px;
+    width: 100%;
+    min-height: 150px;
+    padding: 25px;
+}
+
+/* Button */
+.hero-button {
+    background-color: #18a999;
+    border-radius: 8px;
+    border-style: none;
+    color: #f7f0f0;
+    cursor: pointer;
+    font-size: 16px;
+    height: 3rem;
+    padding: 0 1.6rem;
+    text-align: center;
+    transition: all .5s;
+    user-select: none;
+    touch-action: manipulation;
+    position: absolute;
+    bottom: 30px;
+    margin-left: 30px;
+}
+
+.hero-button:hover {
+    box-shadow: 0 3px 5px #001a23;
+    background-color: #013b65;
+    transition-duration: .1s;
 }
 
 
 /* Footer */
 footer {
     background-color: #001a23;
-    padding: 0 6rem;
-   
+    padding: 0 4rem;
+
     font-size: 16px;
 
 }
 
-/*#sitemap-and-contacts{
-    display: flex;
-        justify-content: space-evenly;
-}*/
 
 
 footer h3 {
@@ -175,17 +210,15 @@ footer li {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 21px;
     }
 
-    .nav-toggle-label{
+    .nav-toggle-label {
         display: none;
     }
 
-    #logo {
-    
-    }
+    #logo {}
 
     /* Main */
 
@@ -194,12 +227,19 @@ footer li {
         margin-top: 73px;
     }
 
+    /*Hero Section*/
+    
+    #hero-text {
+        width: 70%;
+    }
+
+
     /*Footer*/
     #sitemap-and-contacts {
         display: flex;
         justify-content: space-evenly;
     }
-    
+
 }
 
 /* Media Query: Laptops and larger screens (992 px and up) */
