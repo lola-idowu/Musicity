@@ -97,7 +97,15 @@ main {
 /* Footer */
 footer {
     background-color: #001a23;
-    padding: 0 10rem;
+    padding: 0 6rem;
+   
+    font-size: 16px;
+
+}
+
+#sitemap-and-contacts{
+    display: flex;
+    justify-content: space-evenly;
 }
 
 footer h3 {
@@ -105,7 +113,7 @@ footer h3 {
     margin-bottom: 15px;
     padding-top: 15px;
     border-bottom: 1px solid #f7f0f0;
-    width: 50%;
+    width: 100%;
     position: relative;
 }
 
@@ -130,9 +138,6 @@ footer li {
     margin-right: 20px;
 }
 
-#contacts li {
-   
-}
 
 /* Copy right*/
 #copyright {
@@ -142,6 +147,7 @@ footer li {
     position: absolute;
     width: 100%;
     left: 0;
+    align-items: baseline;
 }
 
 
