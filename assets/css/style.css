@@ -86,13 +86,20 @@ nav li {
 
 /* Main Content */
 main {
-    background-color: pink;
-    padding: 0 1rem;
     /* Flex style to push th footer down */
     flex: 1 0 auto;
     /* Push main content down, to be seen under the header*/
     margin-top: 73px;
 }
+
+/* Hero Section*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background-color: #18a999;
+    background: url("../images/female-hands-play-musical-keys-soft-focus.jpg") no-repeat center center/cover;
+}
+
 
 /* Footer */
 footer {
