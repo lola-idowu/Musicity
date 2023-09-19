@@ -97,15 +97,34 @@ main {
 /* Footer */
 footer {
     background-color: #001a23;
-    padding: 0 1rem;
+    padding: 0 10rem;
 }
 
 footer h3 {
     color: #f7f0f0;
+    margin-bottom: 15px;
+    padding-top: 15px;
+    border-bottom: 1px solid #f7f0f0;
+    width: 50%;
+    position: relative;
 }
 
 footer a {
     color: #f7f0f0;
+}
+
+footer li {
+    margin-bottom: 15px;
+}
+
+/* Copy right*/
+#copyright {
+    background-color: #001a23;
+    color: #18a999;
+    font-size: 12px;
+    position: absolute;
+    width: 100%;
+    left: 0;
 }
 
 
