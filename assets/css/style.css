@@ -140,6 +140,32 @@ main {
     transition-duration: .1s;
 }
 
+/* intro section */
+
+/* Button */
+.intro-button {
+    background-color: #18a999;
+    border-radius: 8px;
+    border-style: none;
+    color: #f7f0f0;
+    cursor: pointer;
+    font-size: 16px;
+    height: 3rem;
+    padding: 0 1.6rem;
+    text-align: center;
+    transition: all .5s;
+    user-select: none;
+    touch-action: manipulation;
+    bottom: 30px;
+    margin-left: 30px;
+}
+
+.intro-button:hover {
+    box-shadow: 0 3px 5px #001a23;
+    background-color: #013b65;
+    transition-duration: .1s;
+}
+
 
 /* Footer */
 footer {
