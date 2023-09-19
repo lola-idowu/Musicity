@@ -87,6 +87,7 @@ nav li {
     font-size: 2rem;
 }
 
+
 /* Main Content */
 main {
     /* Flex style to push the footer down */
@@ -228,7 +229,7 @@ footer li {
     }
 
     /*Hero Section*/
-    
+
     #hero-text {
         width: 70%;
     }
