@@ -103,10 +103,11 @@ footer {
 
 }
 
-#sitemap-and-contacts{
+/*#sitemap-and-contacts{
     display: flex;
-    justify-content: space-evenly;
-}
+        justify-content: space-evenly;
+}*/
+
 
 footer h3 {
     color: #f7f0f0;
@@ -185,6 +186,13 @@ footer li {
     main {
         margin-top: 73px;
     }
+
+    /*Footer*/
+    #sitemap-and-contacts {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
 }
 
 /* Media Query: Laptops and larger screens (992 px and up) */
