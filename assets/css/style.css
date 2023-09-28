@@ -187,6 +187,37 @@ main {
 
 /* Testimonials */
 
+#testimonial-section {
+    background-color: #013b65;
+    padding: 50px;
+    color: #f7f0f0;
+}
+#testimonial-section h2 {
+    text-align: center;
+}
+
+.review {
+    background-color: #001a23;
+    margin: 30px 0;
+    border-radius: 10%;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.review i {
+    padding-bottom: 30px;
+    color: #8af3ff;
+}
+
+.review p {
+    text-align: center;
+    padding: 0 50px;
+}
+
+
 /* Footer */
 footer {
     background-color: #001a23;
