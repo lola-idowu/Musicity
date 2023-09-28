@@ -253,6 +253,20 @@ textarea::placeholder {
     font-family: 'Poppins', sans-serif;
 }
 
+/* Contacts*/
+#contacts h4, p, i {
+    text-align: center;
+}
+
+#contacts p {
+    padding-bottom: 15px;
+}
+
+#contacts h4 {
+    color: #013b65;
+    padding-bottom: 5px;
+}
+
 /*Social Media Links*/
 #social-networks {
     text-align: center;
@@ -260,6 +274,10 @@ textarea::placeholder {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+}
+
+#social-networks i {
+    color: #18a999;
 }
 
 
@@ -292,7 +310,7 @@ footer li {
     color: #f7f0f0;
 }
 
-#contacts i {
+#contacts-footer i {
     color: #001a23;
     background-color: #f7f0f0;
     font-size: 20px;
