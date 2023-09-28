@@ -350,12 +350,11 @@ footer li {
         margin-left: 20px;
         padding: 50px;
         padding-bottom: 0;
-        position: relative;
+
         }
 
     #intro-button {
-        position: absolute;
-        bottom: 0;
+   
     }
 
     #intro-img img {
