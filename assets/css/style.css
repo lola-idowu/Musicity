@@ -20,6 +20,10 @@ body {
     background-color: #f7f0f0;
 }
 
+h2, h3, h4 {
+    font-family: 'Fredoka', sans-serif;
+}
+
 /* Header */
 header {
     background-color: #001a23;
@@ -234,6 +238,11 @@ main {
 
 label {
     display: block;
+}
+
+textarea::placeholder { 
+    color: grey;
+    font-family: 'Poppins', sans-serif;
 }
 
 
