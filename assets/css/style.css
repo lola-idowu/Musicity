@@ -195,6 +195,12 @@ main {
 #testimonial-section h2 {
     text-align: center;
 }
+#review {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
 
 .review {
     background-color: #001a23;
@@ -206,6 +212,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
 .review i {
