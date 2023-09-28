@@ -231,14 +231,22 @@ main {
 }
 
 /* Contact Form */
+#contact-section {
+    padding: 50px;
+}
 
-#form {
-    margin: auto;
+#contact-form h2 {
+    padding-bottom: 50px;
 }
 
 label {
     display: block;
 }
+
+input, select, textarea {
+    width: 100%;
+}
+
 
 textarea::placeholder { 
     color: grey;
@@ -337,6 +345,15 @@ footer li {
 
     #hero-text {
         width: 70%;
+    }
+
+    /*Contact Section*/
+    input, select {
+        width: 50%;
+    }
+    
+    textarea {
+        width: 100%;
     }
 
      
