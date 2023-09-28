@@ -146,6 +146,10 @@ main {
     margin: 50px;
 }
 
+#intro-img {
+    background-color: pink;
+}
+
 #intro-img  img {
     max-width: 100%;
     margin-bottom: 25px;
@@ -171,6 +175,7 @@ main {
     user-select: none;
     touch-action: manipulation;
     bottom: 30px;
+    margin-top: 25px;
     
 }
 
@@ -274,6 +279,7 @@ footer li {
         width: 70%;
     }
 
+     
 
     /*Footer*/
     #sitemap-and-contacts {
@@ -291,5 +297,29 @@ footer li {
         border-radius: 3px;
         border: 2px solid #8af3ff;
         padding: 3px;
+    }
+
+    /*Intro Section*/
+    #intro {
+        display: flex;
+        justify-content: center;
+    }
+
+    #intro-text {
+        margin-left: 20px;
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-bottom: 0;
+        }
+
+    #intro-img img {
+        max-width: 100%;
+        padding-top: 50px;
+    }
+
+    #intro-img {
+        max-width: 50%;
     }
 }
