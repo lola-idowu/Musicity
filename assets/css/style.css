@@ -253,6 +253,15 @@ textarea::placeholder {
     font-family: 'Poppins', sans-serif;
 }
 
+/*Social Media Links*/
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
 
 /* Footer */
 footer {
