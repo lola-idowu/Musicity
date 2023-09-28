@@ -226,6 +226,16 @@ main {
     padding: 0 50px 50px 50px;
 }
 
+/* Contact Form */
+
+#form {
+    margin: auto;
+}
+
+label {
+    display: block;
+}
+
 
 /* Footer */
 footer {
