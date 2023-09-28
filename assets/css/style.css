@@ -146,9 +146,6 @@ main {
     margin: 50px;
 }
 
-#intro-img {
-    background-color: pink;
-}
 
 #intro-img  img {
     max-width: 100%;
@@ -159,6 +156,9 @@ main {
     margin-bottom: 30px;
 }
 
+ #intro-text h2 {
+    margin-bottom: 25px;
+ }
 
 /* Button */
 .intro-button {
@@ -185,6 +185,7 @@ main {
     transition-duration: .1s;
 }
 
+/* Testimonials */
 
 /* Footer */
 footer {
@@ -308,11 +309,14 @@ footer li {
     #intro-text {
         margin-left: 20px;
         padding: 50px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
         padding-bottom: 0;
+        position: relative;
         }
+
+    #intro-button {
+        position: absolute;
+        bottom: 0;
+    }
 
     #intro-img img {
         max-width: 100%;
@@ -321,5 +325,6 @@ footer li {
 
     #intro-img {
         max-width: 50%;
+        
     }
 }
