@@ -411,7 +411,24 @@ textarea::placeholder {
 
 #about-text p {
     text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
+}
+
+    /*Mission Section*/
+#mission{
+    padding: 50px;
+    background-color: #001a23;
+} 
+
+#mission h2{
+    color: #8af3ff;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#mission p {
+    color: #f7f0f0;
+    text-align: center;
 }
 
 /* Footer */
