@@ -383,6 +383,18 @@ textarea::placeholder {
 }
 
 
+/* About Page*/
+
+/* About - Hero Section */
+
+#about-hero {
+    height: 600px;
+    width: 100%;
+    background-color: #18a999;
+    background: url("../images/hands-playing-guitar.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
 
 /* Footer */
 footer {
