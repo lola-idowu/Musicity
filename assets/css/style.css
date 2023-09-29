@@ -241,10 +241,15 @@ main {
 
 label {
     display: block;
+    padding: 10px;
+    color: #001a23;
+    cursor: text;
 }
 
 input, select, textarea {
     width: 100%;
+    padding: 10px;
+    font-size: 15px;
 }
 
 
@@ -252,6 +257,8 @@ textarea::placeholder {
     color: grey;
     font-family: 'Poppins', sans-serif;
 }
+
+
 
 /* Contacts*/
 #contacts h4, p, i {
@@ -278,6 +285,7 @@ textarea::placeholder {
 
 #social-networks i {
     color: #18a999;
+    font-size: 120%;
 }
 
 
