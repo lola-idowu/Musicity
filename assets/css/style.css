@@ -431,6 +431,11 @@ textarea::placeholder {
     text-align: center;
 }
 
+/* HQ */
+#hq-img>img {
+    max-width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #001a23;
@@ -605,4 +610,20 @@ footer li {
         }
 
     
+        /* About Page */
+
+        #about {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #about-text {
+            order: 2;
+            padding-left: 30px;
+        }
+
+        #about-img {
+            order: 1;
+        }
 }
