@@ -319,6 +319,16 @@ textarea::placeholder {
     font-size: 120%;
 }
 
+/* Contact Page*/
+
+#steps-section {
+    padding: 50px;
+}
+
+#steps-section h2 {
+    padding-bottom: 50px;
+}
+
 
 /* Footer */
 footer {
