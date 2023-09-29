@@ -459,6 +459,15 @@ textarea::placeholder {
     padding-bottom: 30px;
 }
 
+/* Lesson Page */
+#lesson-hero {
+    height: 600px;
+    width: 100%;
+    background-color: #18a999;
+    background: url("../images/teaching-keyboard.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
 /* Footer */
 footer {
     background-color: #001a23;
