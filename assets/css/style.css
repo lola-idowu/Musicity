@@ -446,9 +446,17 @@ textarea::placeholder {
     padding-bottom: 50px;
 }
 
+#summary>p {
+    text-align: center;
+}
+
 #hq-img>img {
     max-width: 100%;
     padding-bottom: 25px;
+}
+
+#hq-container {
+    padding-bottom: 30px;
 }
 
 /* Footer */
