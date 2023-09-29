@@ -254,6 +254,7 @@ input, select, textarea {
     width: 100%;
     padding: 10px;
     font-size: 15px;
+    font-family: 'Poppins', sans-serif;
 }
 
 
@@ -415,6 +416,16 @@ footer li {
     
     textarea {
         width: 100%;
+    }
+
+    #contact-section{
+        position: relative;
+    }
+
+    #contacts {
+        position: absolute;
+        top: 173px;
+        right: 15%;
     }
 
      
