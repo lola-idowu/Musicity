@@ -404,6 +404,16 @@ textarea::placeholder {
     max-width: 100%;
 }
 
+#about-text h2 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#about-text p {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
 /* Footer */
 footer {
     background-color: #001a23;
