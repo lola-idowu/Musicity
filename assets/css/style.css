@@ -162,6 +162,7 @@ main {
 
  #intro-text h2 {
     margin-bottom: 25px;
+    padding-top: 25px;
  }
 
 /* Button */
@@ -382,6 +383,10 @@ textarea::placeholder {
     text-align: center;
 }
 
+#how-it-works {
+    background-color: #d8dcdd;
+}
+
 
 /* About Page*/
 
@@ -505,6 +510,9 @@ footer li {
     margin-right: 20px;
 }
 
+.reverse {
+    background-color: #d8dcdd;
+}
 
 /* Copy right*/
 #copyright {
@@ -613,7 +621,6 @@ footer li {
         margin-left: 20px;
         padding: 50px;
         padding-bottom: 0;
-
         }
 
     #intro-button {
@@ -675,4 +682,14 @@ footer li {
             width: 50%;
         
         }
+
+    /* Lessons */
+
+    .reverse-1{
+        order: 2;
+    }
+
+    .reverse-2 {
+        order: 1;
+    }
 }
