@@ -288,7 +288,11 @@ textarea::placeholder {
 }
 
 /* Contacts*/
-#contacts h4, p, i {
+#contacts h4 {
+    text-align: center;
+}
+
+#contacts p {
     text-align: center;
 }
 
@@ -320,12 +324,8 @@ textarea::placeholder {
 footer {
     background-color: #001a23;
     padding: 0 4rem;
-
     font-size: 16px;
-
 }
-
-
 
 footer h3 {
     color: #f7f0f0;
