@@ -641,4 +641,21 @@ footer li {
         #about-img {
             order: 1;
         }
+
+        #hq-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #hq-img {
+            order: 1;
+            width: 35%;
+            padding-right: 50px;
+        }
+
+        #hq-text {
+            order: 2;
+            width: 50%;
+        
+        }
 }
