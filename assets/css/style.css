@@ -395,7 +395,14 @@ textarea::placeholder {
     position: relative;
 }
 
+#about {
+    padding: 50px;
+}
 
+
+#about-img>img{
+    max-width: 100%;
+}
 
 /* Footer */
 footer {
