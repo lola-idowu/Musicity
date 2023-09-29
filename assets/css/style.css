@@ -321,7 +321,7 @@ textarea::placeholder {
 
 /* Contact Page*/
 
-#steps-section {
+#how-it-works {
     padding: 50px;
     display: flex;
     flex-direction: column;
@@ -329,7 +329,14 @@ textarea::placeholder {
     align-items: center;
 }
 
-#steps-section h2 {
+#steps-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#how-it-works h2 {
     padding-bottom: 50px;
 }
 
@@ -344,11 +351,11 @@ textarea::placeholder {
     text-align: center;
     color: #013b65;
     background-color: #8af3ff;
-    height: 90px;
-    width: 90px;
+    height: 110px;
+    width: 110px;
     border-radius: 50%;
     font-size: 50px;
-    padding: 20px 20px;
+    padding: 30px 30px;
     display: block;
     margin: 0 50%
 }
@@ -356,6 +363,8 @@ textarea::placeholder {
 .steps>h4 {
     padding: 10px 0;
     text-align: center;
+    font-size: 120%;
+
 }
 
 .steps>p {
@@ -487,6 +496,7 @@ footer li {
         width: 50%;
     }
 
+    
 }
 
 /* Media Query: Laptops and larger screens (992 px and up) */
@@ -525,4 +535,17 @@ footer li {
         max-width: 50%;
         
     }
+
+
+    /*Contact Page */
+
+        #steps-section {
+            padding: 50px;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+        }
+
+    
 }
