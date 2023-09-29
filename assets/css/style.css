@@ -432,8 +432,23 @@ textarea::placeholder {
 }
 
 /* HQ */
+#hq {
+    padding: 50px;
+}
+
+#hq-text h2 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#hq-text p {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
 #hq-img>img {
     max-width: 100%;
+    padding-bottom: 25px;
 }
 
 /* Footer */
