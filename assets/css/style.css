@@ -323,10 +323,21 @@ textarea::placeholder {
 
 #steps-section {
     padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 #steps-section h2 {
     padding-bottom: 50px;
+}
+
+.steps {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .steps>i {
@@ -338,7 +349,18 @@ textarea::placeholder {
     border-radius: 50%;
     font-size: 50px;
     padding: 20px 20px;
+    display: block;
+    margin: 0 50%
+}
 
+.steps>h4 {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.steps>p {
+    padding-bottom: 50px;
+    text-align: center;
 }
 
 
@@ -457,6 +479,12 @@ footer li {
     #sitemap-and-contacts {
         display: flex;
         justify-content: space-evenly;
+    }
+
+    /* Contact Page*/
+
+    .steps {
+        width: 50%;
     }
 
 }
