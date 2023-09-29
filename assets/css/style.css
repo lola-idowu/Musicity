@@ -239,6 +239,10 @@ main {
     padding-bottom: 50px;
 }
 
+#form {
+    padding-bottom: 40px;
+}
+
 label {
     display: block;
     padding: 10px;
