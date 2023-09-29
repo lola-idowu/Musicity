@@ -329,6 +329,12 @@ textarea::placeholder {
     padding-bottom: 50px;
 }
 
+#steps-section i {
+    text-align: center;
+    color: #001a23
+}
+
+
 
 /* Footer */
 footer {
