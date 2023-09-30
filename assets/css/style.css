@@ -484,11 +484,8 @@ textarea::placeholder {
 
 .teacher-section {
     background-color: #d8dcdd;
-    border-radius: 10%;
-}
-
-.teacher-img {
-    padding-left: 60px;
+    padding: 3% 5%;
+    margin: 0;
 }
 
 .teacher-img>img{
