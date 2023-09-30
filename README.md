@@ -10,59 +10,56 @@ The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
 ![Responsive Mockup](https://github.com/lola-idowu/Musicity/tree/main/assets/images/amiresponsive.jpg)
 
-
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
-- __Navigation Bar__
+- **Navigation Bar**
 
   - The Navigation bar is featured on all pages of the site. It serves as a menu of links that allow users to navigate through the various pages of the website
   - The navigation bar adapts to different screen sixes. On smaller screens it collapses into a 'hamburger' menu, which expands when clicked, providing mobile users with a compact and user-friendly navigatio experience
 
-
-![Nav Bar](assets/images/media/nav-bar.png)
+![Nav Bar](https://github.com/lola-idowu/Musicity/tree/main/assets/amiresponsive.jpg)
 ![Responsive Nav Bar](assets/images/media/mobile-nav-bar.jpeg)
 ![Responsive Nav Bar](assets/images/media/open-mobile-nav-bar.jpeg)
 
-- __Hero image__
+- **Hero image**
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The hero image, being the first visual element that the users see when they open the site, clearly conveys the site's theme, brand identity and the essence of it's content.
+  - The image depicts hands playing a piano - clearly making the users aware that the theme of the content of the site will be surrounding music
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- **Testimonial Section**
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
+  - This section displays Musicity's testimonials - showcasing feedback and reviews from satisfied customers
+  - This provides social proof to the users that the lessons offered are valuable and trustworthy
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- **Contact Form**
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-  - This section will be updated as these times change to keep the user up to date.
+  - The contact form allows a user-friendly way for users to reach out to express their interest in music lessons
+  - The users are able to specify what musical inttrument they are interested in
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __The Footer__
+- **The Footer**
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes a simple site map with links that navigate to the relevant page. The footer also consists of the site's contact details; number, address and email address.
+  
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- **Gallery**
 
   - The gallery will provide the user with supporting images to see what the meet ups look like.
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- **The Sign Up Page**
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 
@@ -131,10 +128,12 @@ Congratulations on completing your Readme, you have made another big stride in t
 
 Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
 
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message
+- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message
+
   - Make sure to keep the messages in the imperative mood
 
 - When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
+
   - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
 
 - Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
