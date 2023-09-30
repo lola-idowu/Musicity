@@ -29,23 +29,27 @@ The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
   - The hero image, being the first visual element that the users see when they open the site, clearly conveys the site's theme, brand identity and the essence of it's content.
   - The image depicts hands playing a piano - clearly making the users aware that the theme of the content of the site will be surrounding music
+![Hero](assets/images/hero-image.jpeg)
 
 
 - **Testimonial Section**
 
   - This section displays Musicity's testimonials - showcasing feedback and reviews from satisfied customers
   - This provides social proof to the users that the lessons offered are valuable and trustworthy
+![Mobile Navigation Bar](assets/images/open-mobile-nav-bar.jpeg)
 
 
 - **Contact Form**
 
   - The contact form allows a user-friendly way for users to reach out to express their interest in music lessons
   - The users are able to specify what musical inttrument they are interested in
+![Contact Form](assets/images/contact-form.jpeg)
 
 
 - **The Footer**
 
   - The footer section includes a simple site map with links that navigate to the relevant page. The footer also consists of the site's contact details; number, address and email address.
+![Footer](assets/images/footer.jpeg)
   
 
 
@@ -53,12 +57,14 @@ The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
   - This section outlines the enrollment process, therefore users have a clear expectations of the process
   - It is a convenient section that can encourage user's to get in toush as they now know wht to expect
+![Enrollment Process](assets/images/enrollment-process.jpeg)
 
 
 - **Musicity's Mission and Goals**
 
   - The mission statement communicates the company's core values and ethical principles. This can serve as a benchmark for measuring Musicity's impact and success in achieving its stated goals
   - The purpose of the mission statement is to attratc like-minded users that share simular values and gioals
+  ![Mission Statement](assets/images/mission.jpeg)
 
 
 ## User Experience
@@ -110,6 +116,7 @@ Images were obtained from [Pexels](<https://www.pexels.com/>) and [iStock](https
 
 ### Colour Pallete
 I chose a minimal and modern color palette, primarily centered around shades of blue. This color scheme not only aligns seamlessly with the Musicity's aesthetic but also enhances the overall user experience by imparting a welcoming and contemporary feel.
+![Mobile Navigation Bar](assets/images/open-mobile-nav-bar.jpeg)
 
 ## Technologies
 ---
@@ -153,7 +160,6 @@ No errors were found when passing through the official [(Jigsaw) validator](http
 
 ## Unfixed Bugs
 ---
-
 No bugs left unfixed
 
 ## Deployment
@@ -175,4 +181,4 @@ The live link can be found here - <https://code-institute-org.github.io/love-run
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer and contact section were obtained from [Font Awesome](https://fontawesome.com/)
