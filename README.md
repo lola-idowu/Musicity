@@ -8,7 +8,7 @@ The site outlines the enrollment process and is makes it convinient for users to
 
 The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
-![Responsive Mockup](assets/images/media/amiresponsive.jpg)
+![Responsive Mockup](https://github.com/lola-idowu/Musicity/tree/main/assets/images/amiresponsive.jpg)
 
 
 ## Features
