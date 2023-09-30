@@ -482,6 +482,19 @@ textarea::placeholder {
     position: relative;
 }
 
+.teacher-section {
+    background-color: #d8dcdd;
+    border-radius: 10%;
+}
+
+.teacher-img {
+    padding-left: 60px;
+}
+
+.teacher-img>img{
+    border-radius: 12%;
+}
+
 /* Footer */
 footer {
     background-color: #001a23;
