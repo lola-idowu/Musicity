@@ -6,6 +6,7 @@ Ultimately the goal is to promote the importance of music education and encourag
 
 The site outlines the enrollment process and is makes it convinient for users to sign up for lessons. The site also entails clear calls-to-action and user-friendly navigation to guide users through the process
 
+The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
