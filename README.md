@@ -10,7 +10,6 @@ The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
 ![Responsive Mockup](assets/images/amiresponsive.jpg)
 
-![pic](https://github.com/lola-idowu/Musicity/blob/main/assets/images/amiresponsive.jpg)
 
 ## Features
 ---
@@ -21,6 +20,10 @@ The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
   - The Navigation bar is featured on all pages of the site. It serves as a menu of links that allow users to navigate through the various pages of the website
   - The navigation bar adapts to different screen sixes. On smaller screens it collapses into a 'hamburger' menu, which expands when clicked, providing mobile users with a compact and user-friendly navigatio experience
+![Navigation Bar](assets/images/nav-bar.png)
+![Mobile Navigation Bar](assets/images/mobile-nav-bar.jpeg)
+![Mobile Navigation Bar](assets/images/open-mobile-nav-bar.jpeg)
+
 
 - **Hero image**
 
