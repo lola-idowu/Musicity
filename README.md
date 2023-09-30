@@ -2,38 +2,14 @@
 
 Musicity has been created and developed to inform users of the wide range of music lessons and programs on offer. The aim is to provide comprehensive information about the music lessons, instructors and the company's mission and goals.
 
-Ultimately the goal is to promote the importance of music education and encourage people of all ages and skill levels to explore, embrace and aim to improve their unique musical abilites
+Ultimately the goal is to promote the importance of musical education and encourage people of all ages and skill levels to explore, embrace and aim to improve their unique musical abilites
 
 The site outlines the enrollment process and is makes it convinient for users to sign up for lessons. The site also entails clear calls-to-action and user-friendly navigation to guide users through the process
 
 The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
-![Responsice Mockup](assets/images/media/amiresponsive.jpg)
+![Responsive Mockup](assets/images/media/amiresponsive.jpg)
 
-## Contents
-
-- [**User Experience**](#user-experience)
-  - [**User Stories**](#user-stories)
-  - [**Responsive Web Design**](#responsive-web-design)
-- [**Design**](#design)
-
-  - [**Mockup**](#mockup)
-  - [**Imagery**](#imagery)
-  - [**Typography**](#typography)
-
-- [**Technologies**](#technologies)
-
-  - [**Languages**](#languages)
-  - [**Libraries**](#libraries)
-  - [**Other Tools**](#other-tools)
-
-- [**Testing**](#testing)
-
-- [**Deployment**](#deployment)
-
-- [**Credits**](#credits)
-  - [**Articles**](#articles)
-  - [**Acknowledgements**](#acknowledgements)
 
 ## Features
 
@@ -43,12 +19,15 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - The Navigation bar is featured on all pages of the site. It serves as a menu of links that allow users to navigate through the various pages of the website
+  - The navigation bar adapts to different screen sixes. On smaller screens it collapses into a 'hamburger' menu, which expands when clicked, providing mobile users with a compact and user-friendly navigatio experience
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
+![Nav Bar](assets/images/media/nav-bar.png)
+![Responsive Nav Bar](assets/images/media/mobile-nav-bar.jpeg)
+![Responsive Nav Bar](assets/images/media/open-mobile-nav-bar.jpeg)
+
+- __Hero image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
