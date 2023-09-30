@@ -10,6 +10,8 @@ The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
 
 ![Responsive Mockup](https://github.com/lola-idowu/Musicity/tree/main/assets/images/amiresponsive.jpg)
 
+
+
 ## Features
 
 
@@ -20,58 +22,96 @@ The live site can be accessed [here](https://lola-idowu.github.io/Musicity/)
   - The Navigation bar is featured on all pages of the site. It serves as a menu of links that allow users to navigate through the various pages of the website
   - The navigation bar adapts to different screen sixes. On smaller screens it collapses into a 'hamburger' menu, which expands when clicked, providing mobile users with a compact and user-friendly navigatio experience
 
-![Nav Bar](https://github.com/lola-idowu/Musicity/tree/main/assets/amiresponsive.jpg)
-![Responsive Nav Bar](assets/images/media/mobile-nav-bar.jpeg)
-![Responsive Nav Bar](assets/images/media/open-mobile-nav-bar.jpeg)
-
 - **Hero image**
 
   - The hero image, being the first visual element that the users see when they open the site, clearly conveys the site's theme, brand identity and the essence of it's content.
   - The image depicts hands playing a piano - clearly making the users aware that the theme of the content of the site will be surrounding music
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
 - **Testimonial Section**
 
   - This section displays Musicity's testimonials - showcasing feedback and reviews from satisfied customers
   - This provides social proof to the users that the lessons offered are valuable and trustworthy
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - **Contact Form**
 
   - The contact form allows a user-friendly way for users to reach out to express their interest in music lessons
   - The users are able to specify what musical inttrument they are interested in
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - **The Footer**
 
   - The footer section includes a simple site map with links that navigate to the relevant page. The footer also consists of the site's contact details; number, address and email address.
   
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- **Gallery**
+- **Enrollment Process**
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like.
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
+  - This section outlines the enrollment process, therefore users have a clear expectations of the process
+  - It is a convenient section that can encourage user's to get in toush as they now know wht to expect
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- **The Sign Up Page**
+- **Musicity's Mission and Goals**
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
+  - The mission statement communicates the company's core values and ethical principles. This can serve as a benchmark for measuring Musicity's impact and success in achieving its stated goals
+  - The purpose of the mission statement is to attratc like-minded users that share simular values and gioals
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+## User Experience
+### User Stories 
+The purpose of the user stories is to allow for user focused design in order to ensure that the needs and goals of the users are being satisifed
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+**As a user visiting this site I want:**
 
-### Features Left to Implement
+- To explore available music lessons that align with my skill level and interests
+- To learn about Musicity's music program, outlining lesson programs
+- Find informatio about the instructors, including their qualifications and teaching styles
+- To access Musicity's socisal media
+- Easily navigate throught the site and find comprehensive information about Musicity's offerings
+- To be able to request a trial lesson or consultation to assess Musicity's suitability
+- To read success stories from previous students, in order to ensure that the provided services are of high quality
 
-- Another feature idea
+### Responsive Web Design
+**The website is fully responsive, adhering to all screen sizes:**
+
+- Mobile Sizes - 375px
+- Tablet Sizes - 768px
+- Desktop (larger screens) Sizes - 992px and up
+  
+## Design
+
+### Wireframes
+Mid-fidelty wireframes were created using [Figma](https://www.figma.com/)
+The wireframes can be accessed [here](https://www.figma.com/file/wcPfEothtQly5j77u4nCQC/Project-1?type=design&node-id=0%3A1&mode=design&t=95CwBUDHNlTlA9SG-1)
+
+
+### Imagery
+Images were obtained from [Pexels](<https://www.pexels.com/>) and [iStock](https://www.istockphoto.com/)
+
+
+### Typography
+[Google Fonts](https://fonts.google.com/?preview.text=Musicity&preview.text_type=custom)
+
+**Site Logo** - Josefin, sans-serif
+
+**Subheadings** - Fredoka, sans-serif
+
+**Body text** - Poppins, sans-serif
+
+
+### Colour Pallete
+I chose a minimal and modern color palette, primarily centered around shades of blue. This color scheme not only aligns seamlessly with the Musicity's aesthetic but also enhances the overall user experience by imparting a welcoming and contemporary feel.
+
+## Technologies
+
+### Languages 
+
+- HTML5 - Used for the creation of the struture for the website content.
+
+- CSS3 - Cascading Style Sheets language used to style the site pages.
+
+
 
 ## Testing
 
@@ -92,7 +132,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+No bugs left unfixed
 
 ## Deployment
 
@@ -107,10 +147,6 @@ The live link can be found here - <https://code-institute-org.github.io/love-run
 
 ## Credits
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-
 ### Content
 
 - The text for the Home page was taken from Wikipedia Article A
@@ -119,26 +155,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the site are from the Pexels and iStock site
+- 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
 
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message
-
-  - Make sure to keep the messages in the imperative mood
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
