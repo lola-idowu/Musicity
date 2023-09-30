@@ -488,6 +488,11 @@ textarea::placeholder {
     margin: 0;
 }
 
+.teacher-none {
+    padding: 3% 5%;
+    margin: 0;
+}
+
 .teacher-img>img{
     border-radius: 12%;
 }
