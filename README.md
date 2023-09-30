@@ -116,7 +116,7 @@ Images were obtained from [Pexels](<https://www.pexels.com/>) and [iStock](https
 
 ### Colour Pallete
 I chose a minimal and modern color palette, primarily centered around shades of blue. This color scheme not only aligns seamlessly with the Musicity's aesthetic but also enhances the overall user experience by imparting a welcoming and contemporary feel.
-![Mobile Navigation Bar](assets/images/open-mobile-nav-bar.jpeg)
+![Color Palette](assets/images/color-palette.jpeg)
 
 ## Technologies
 ---
