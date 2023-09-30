@@ -155,11 +155,25 @@ No errors were found when passing through the official [(Jigsaw) validator](http
 
 I employed the Wave tool, a web accessibility evaluation tool, within Chrome's developer tools to assess the website's accessibility.
 [Wave](https://wave.webaim.org)
+![](assets/images/wave.jpeg)
 
 ## Manual Testing
 ---
+- Forms and Functionality:
+  - Test any interactive elements such as sliders, accordions, or dropdown menus to ensure they work smoothly and as intended.
+  - Validate that any forms, search bars, or interactive elements are functional without errors.
+-Image Loading Testing:
+  - Confirm that all images on the website load properly and display without errors.
+  - Test image responsiveness by resizing the browser window to various screen sizes to ensure images adapt accordingly.
 
-
+- Social Media Links Testing:
+  - Click on each social media icon or link to confirm that they direct users to the correct social media profiles or pages.
+  - Ensure that the links open in a new tab or window as expected.
+  - Check that social media icons are displayed consistently across different pages of the website.
+- Navigation Bar Testing:
+  - Test each navigation menu item to ensure they link to the correct pages.
+  - Check that the navigation menu is responsive and functions well on both desktop and mobile devices.
+  - Verify that there are no broken links within the navigation bar.
 
 
 
@@ -170,20 +184,15 @@ No bugs left unfixed
 ## Deployment
 ---
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - <https://code-institute-org.github.io/love-running-2.0/index.html>
-
 ## Credits
 ---
 
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer and contact section were obtained from [Font Awesome](https://fontawesome.com/)
